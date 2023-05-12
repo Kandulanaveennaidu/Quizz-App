@@ -17,9 +17,6 @@ Quiz App built with
 
 ![preview](https://user-images.githubusercontent.com/24995094/207837594-2cc664e0-7db4-44c2-bb97-d9f65099a068.jpg)
 
-## Live Demo
-
-You can check demo here [here](https://quiz.udemy.monster)
 
 ## Installation
 
